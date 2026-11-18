@@ -1,0 +1,2 @@
+Copyright (c) 2026 Bishanka Sarma. All Rights Reserved.
+CONFIDENTIAL AND PROPRIETARY. This model, its weights, and associated code are trained on restricted data. Unauthorized access, copying, distribution, or use by non-authorized personnel is strictly prohibited.
